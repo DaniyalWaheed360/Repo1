@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A2E9-79B8
-
- Directory of C:\Users\Lenovo\Desktop\MyGitFolder
-
-02/22/2025  02:12 PM    <DIR>          .
-02/22/2025  02:06 PM    <DIR>          ..
-02/22/2025  02:12 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  328,811,098,112 bytes free
+change 1
